@@ -1,0 +1,1 @@
+Using JavaScript to create a simple module that exports specific functionality to the program that implements the module.
